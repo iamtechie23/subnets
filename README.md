@@ -38,8 +38,3 @@ The Vault contract allows users to deposit ERC20 tokens and withdraw them later.
 - `deposit(uint256 amount)`: Deposits `amount` tokens into the vault.
 - `withdraw(uint256 amount)`: Withdraws `amount` tokens from the vault.
 - `balanceOf(address account)`: Returns the balance of the specified address in the vault.
-
-
-## Contact
-
-For any questions or suggestions, please contact [Your Name] at [your.email@example.com].
